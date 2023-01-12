@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, 0.63);
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    line-height: 60px;
+    word-spacing: 10px;
+   
+}
+span{
+    color: orange;
+}
+.first{
+    width: 50%;
+    padding-left: 5%;
+}
+.ab{
+    display: flex;
+    margin-bottom: 80px;
+    margin-top: 40px;
+}
+.im{
+    width: 100%;
+    margin-top: 10px;
+    padding-left: -100px;
+}
+a{
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 35px;
+    background-color: orange;
+}
+.middle{
+    background-image: url(images/shapes/female-bg.png);
+    display: flex;
+}
+.fm{
+    width: 280px;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.ss{
+    margin-bottom: 40px;
+}
+.gh{
+    margin-top: 60px;
+}
+.mid{
+    margin-top: 100px;
+}
+.saj{
+    margin-right: 40px;
+    margin-bottom: 80px;
+}
+.saa{
+    text-align: center;
+}
+.ssa{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.saha{
+    display: flex;
+}
+.diu{
+    box-shadow: 5px 5px 20px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 45%;
+    border-radius: 50px;
+}
+.diu img{
+    width: 490px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.jd{
+    margin-bottom: 40px;
+}
+.cl{
+    margin-left: 30px;
+}
+#sajib{
+    box-shadow: 5px 5px 20px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 94%;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.last{
+    text-align: center;
+}
+#ad{
+    margin-bottom: 50px;
+
+}
